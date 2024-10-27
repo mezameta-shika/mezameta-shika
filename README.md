@@ -1,4 +1,4 @@
-## Hi there 👋
+## i haven't actually finished nokotan yet
 
 <!--
 **mezameta-shika/mezameta-shika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
