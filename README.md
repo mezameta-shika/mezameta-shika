@@ -1,5 +1,5 @@
-## reading about democratic kampuchea
-## I haven't actually finished nokotan yet
+## hello github
+[website](https://mezameta-shika.github.io)
 
 <!--
 **mezameta-shika/mezameta-shika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
